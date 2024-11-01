@@ -28,7 +28,7 @@
     "@types/express": "^4.17.21",
     "@vitejs/plugin-vue": "^5.0.4",
     "electron": "^31.2.0",
-    "electron-builder": "^24.13.3",
+    "electron-builder": "^25.1.8",
     "execa": "^9.3.0",
     "express": "^4.19.2",
     "lodash-es": "^4.17.21",
